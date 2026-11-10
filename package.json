@@ -1,0 +1,8 @@
+{
+  "name": "alicebench",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "bun test", "demo": "bun src/cli.ts run --provider fixture --model cautious --output results/demo", "check": "bun test && bun src/cli.ts validate"},
+  "engines": {"bun": ">=1.2"}
+}
