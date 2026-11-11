@@ -1,5 +1,7 @@
 # AliceBench
 
+![AliceBench — IA y ternura tecnológica](Banner%20de%20AliceBench_%20IA%20y%20ternura%20tecnol%C3%B3gica.png)
+
 ![Status](https://img.shields.io/badge/status-research%20prototype-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Alice Resistance](https://img.shields.io/badge/Alice%20Resistance-under%20evaluation-purple)
